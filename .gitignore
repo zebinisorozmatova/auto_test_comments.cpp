@@ -39,3 +39,20 @@
 
 # debug information files
 *.dwo
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# IDE specific files
+.vscode/
+*.code-workspace
+*.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
